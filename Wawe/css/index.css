@@ -1,0 +1,66 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color:#566d8d;
+}
+.header__navlist{
+    list-style: none;
+    display: flex;
+    height: 28px;
+    width: 710px ;
+}
+.header{
+    display: flex;
+    width:955px;
+    height: 64px;
+    margin:0px 105px 0px 105px;
+}
+.header__logoimg{
+    width: 60px;
+    height: 64px;
+    margin: 35px 185px 0px 360px;
+}
+.header__nav{
+    width:710px;
+    height:28px;
+}
+.header__navitem{
+    font-family: "Roboto Condensed";
+    font-size: 24px;
+    margin-right: 45px;
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: flex;
+}
+header{
+    display: flex;
+}
+.header_text{
+    width: 654px; 
+    height: 263px;
+    margin: 0 auto;
+}
+.header_text_upper{
+    font-style:normal;
+    font-family: "Raleway";
+    font-size: 200px;
+    width: 654px;
+    height: 235px;
+    margin: 0 auto;
+}
+.header_text_bellow{
+    font-family: "Roboto Condensed";
+    font-size: 24px;
+    width: 426px;
+    height: 28px;
+    margin: 0 auto;
+}
+.header_O_nas{
+    display: flex;
+    width: 58px;
+    height: 28px;
+}
